@@ -8,9 +8,9 @@ A curated reference list of words and phrases that signal AI-generated content. 
 
 AI language models default to a recognizable vocabulary. The same words appear in every blog post, every email, every LinkedIn update. Readers can't always name what feels off, but they feel it. The words on this list are the tell.
 
-This is not a list of bad words. Some of them are perfectly legitimate in the right context. The problem is frequency and context — AI reaches for these words by default, which means content that relies on AI output without editing ends up sounding like every other piece of AI content on the internet.
+This is not a list of bad words. Some of them are perfectly legitimate in the right context. The problem is frequency and context-AI reaches for these words by default, which means content that relies on AI output without editing ends up sounding like every other piece of AI content on the internet.
 
-Use this list as an editing checklist. If you find these words in your draft, that is a signal to rewrite — not because the word is wrong, but because the AI put it there and you probably have something better to say.
+Use this list as an editing checklist. If you find these words in your draft, that is a signal to rewrite - not because the word is wrong, but because the AI put it there and you probably have something better to say.
 
 ---
 
